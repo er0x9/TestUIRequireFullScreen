@@ -1,0 +1,15 @@
+{
+  "name": "test-splitview-plugin",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "test-splitview-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/er0x9/test-uirequiresfullscreeen-plugin.git"
+  },
+}
