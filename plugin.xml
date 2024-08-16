@@ -1,6 +1,6 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
  id="test-splitview-plugin" version="0.0.1">
-    <name>test</name>
+    <name>test-splitview-plugin</name>
     <description>This plugin sets UIRequiresFullScreen to false in *-Info.plist file</description>
     <!-- ios -->
     <platform name="ios">
